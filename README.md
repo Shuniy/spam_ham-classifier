@@ -1,4 +1,4 @@
-# Spam Classifier
+# [Spam Classifier](https://sms-spam-classifier-zippy.herokuapp.com/)
 A Flask application which accepts text from user, and generates prediction whether the text is Spam or Ham.
 
 The data is a collection of SMS messages tagged as spam or ham that can be found [here](https://www.kaggle.com/uciml/sms-spam-collection-dataset). 
@@ -24,3 +24,6 @@ To access home page browse to `http://localhost:5000`
 
 ### Packages Used
 [Refer to the requirements.txt file.](https://github.com/ZippySphinx/spam_ham-classifier/blob/master/requirements.txt)
+
+### Deployment
+[Refer to the this page for deployment steps.](https://devcenter.heroku.com/categories/deployment)
